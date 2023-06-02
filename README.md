@@ -1,4 +1,4 @@
-## UdemyLandingPage
+## Landing Page InDecor
 
 <p align="justify">
   O desafio consiste em desenvolver uma Landing Page para um evento de arquitetura baseado no modelo de layout proposto no curso do Hora de Codar da Udemy.
