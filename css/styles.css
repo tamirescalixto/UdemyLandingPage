@@ -398,8 +398,8 @@
     }
 }
 
-/* Mobile */
-@media (max-width: 768px) {
+/* Tablet */
+@media (max-width: 768px), (orientation: landscape) {
 
     /* Event form */
     #event-subscription {
